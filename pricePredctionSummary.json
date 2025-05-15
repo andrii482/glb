@@ -11,7 +11,7 @@
         "@id": "dtmi:com:dtdlEditor:marketenergyvalueprediction;1",
         "@type": "Property",
         "writable": true,
-        "name": "market-energy-value-prediction",
+        "name": "marketenergyvalueprediction",
         "displayName": {
           "en-US": "market-energy-value-prediction"
         },

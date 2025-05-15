@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "dtmi:com:dtdlEditor:myInterface;1",
+    "@type": "Interface",
+    "@context": [
+      "dtmi:dtdl:context;3",
+      "dtmi:dtdl:extension:quantitativeTypes;1"
+    ],
+    "contents": [
+      {
+        "@id": "dtmi:com:dtdlEditor:marketenergyvalueprediction;1",
+        "@type": "Property",
+        "writable": true,
+        "name": "market-energy-value-prediction",
+        "displayName": {
+          "en-US": "market-energy-value-prediction"
+        },
+        "description": {
+          "en-US": "summary prediction for 7 days revenue"
+        },
+        "schema": "string"
+      }
+    ],
+    "schemas": []
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "domain": "482.solutions",
+  "dns": {
+    "A": [
+      "188.166.192.211"
+    ],
+    "AAAA": [],
+    "CNAME": [],
+    "MX": [
+      "1 aspmx.l.google.com.",
+      "5 alt2.aspmx.l.google.com.",
+      "10 alt3.aspmx.l.google.com.",
+      "5 alt1.aspmx.l.google.com.",
+      "10 alt4.aspmx.l.google.com."
+    ],
+    "NS": [
+      "ns-cloud-a2.googledomains.com.",
+      "ns-cloud-a3.googledomains.com.",
+      "ns-cloud-a1.googledomains.com.",
+      "ns-cloud-a4.googledomains.com."
+    ],
+    "errors": []
+  },
+  "ssl": {
+    "valid": true,
+    "issuer": "Let's Encrypt",
+    "issued_to": "482.solutions",
+    "expires": "2025-08-14"
+  },
+  "whois": {
+    "registrar": "Squarespace Domains II LLC",
+    "creation_date": "2016-05-20",
+    "expiration_date": "2026-05-20"
+  },
+  "ip_info": {
+    "ip": "188.166.192.211",
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "isp": "DigitalOcean, LLC",
+    "org": "Digitalocean",
+    "asn": "AS14061 DigitalOcean, LLC",
+    "reverse": "482.solutions",
+    "ping": "unavailable"
+  },
+  "open_ports": [
+    22,
+    80,
+    443
+  ]
+}
